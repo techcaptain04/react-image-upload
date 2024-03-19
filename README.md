@@ -6,9 +6,6 @@ React Typescript Image Upload example with Preview, Progress Bar using Axios, Bo
 For instruction, please visit:
 > [React Typescript Image Upload example (with Preview)](https://www.bezkoder.com/upload-image-react-typescript/)
 
-More Practice:
-> [React Typescript CRUD example](https://www.bezkoder.com/react-typescript-api-call/)
-
 > [React Typescript Custom Hook](https://www.bezkoder.com/react-custom-hook-typescript/)
 
 > [React Hook Form Typescript example with Validation](https://www.bezkoder.com/react-hook-form-typescript/)
