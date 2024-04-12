@@ -40,8 +40,6 @@ Serverless with Firebase:
 
 > [React Typescript Firestore example: CRUD App](https://www.bezkoder.com/react-typescript-firestore/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### Set port
 .env
 ```
